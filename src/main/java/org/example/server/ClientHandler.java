@@ -61,46 +61,6 @@ public class ClientHandler implements Runnable {
     }
 
     private void handleClient() throws Exception {
-//
-//        ObjectOutputStream outputStream = new ObjectOutputStream(socket.getOutputStream());
-//
-//        ObjectInputStream inputStream = new ObjectInputStream(socket.getInputStream());
-//
-//        if (clientSlots.availablePermits() == 0) {
-//
-//            outputStream.writeObject(ConnectionStatus.WAIT);
-//
-//            outputStream.flush();
-//
-//            System.out.println("Client waiting...");
-//        }
-//
-//        clientSlots.acquire();
-//
-//        activeClients.incrementAndGet();
-//
-//        outputStream.writeObject(ConnectionStatus.OK);
-//
-//        outputStream.flush();
-//
-//        int clientId = (Integer) inputStream.readObject();
-//
-//        System.out.println("Client accepted: " + clientId);
-//
-//        Random random = new Random();
-//
-//        while (true) {
-//
-//            String request = (String) inputStream.readObject();
-//
-//            if (request.equalsIgnoreCase("EXIT")) {
-//                break;
-//            }
-//
-//            Thread.sleep(random.nextInt(3000));
-//
-//            sendObjects(request, clientId, outputStream);
-//        }
 
         ObjectOutputStream outputStream = new ObjectOutputStream(socket.getOutputStream());
 
