@@ -1,9 +1,9 @@
-Skład zespołu: Jakub Bąk
+Skład zespołu: Jakub Bąk, Natalia Nawrocka
 <br>
 <br>
-Projektant aplikacji - Jakub Bąk  
+Projektant aplikacji - Natalia Nawrocka
 Programista - Jakub Bąk  
-Tester aplikacji - Jakub Bąk  
+Tester aplikacji - Jakub Bąk, Natalia Nawrocka  
 <br>
 <br>
 Jak uruchomić program:
