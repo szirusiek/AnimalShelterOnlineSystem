@@ -2,7 +2,7 @@ Skład zespołu: Jakub Bąk, Natalia Nawrocka
 <br>
 <br>
 Projektant aplikacji - Natalia Nawrocka<br>
-Programista - Jakub Bąk<, Natalia Nawrocka<br>
+Programista - Jakub Bąk, Natalia Nawrocka<br>
 Tester aplikacji - Jakub Bąk, Natalia Nawrocka  
 <br>
 <br>
